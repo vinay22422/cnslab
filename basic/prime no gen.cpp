@@ -19,7 +19,7 @@ for(i=f;i<=t;i++){k=1;
 }
 int main()
 {
-    cout << "Hello world!" << endl;
+    cout << "enter range!" << endl;
 
     int no1,no2;
 
