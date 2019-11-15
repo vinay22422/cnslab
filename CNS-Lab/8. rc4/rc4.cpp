@@ -1,6 +1,5 @@
 /*
 Program: RC4 Algorithm
-Author: Gangadhara Shetty P J
 */
 
 #include<iostream>
