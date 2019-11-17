@@ -6,7 +6,7 @@ Program: RC4 Algorithm
 using namespace std;
 int main()
 {
-    int s[256], t[256], k[256], p[256], c[256];
+    int s[256], t[256], k[256], c[256];
     string plain, cipher, key;
     cout<<"Enter plain text:";
     cin>>plain;
