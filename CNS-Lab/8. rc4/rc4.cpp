@@ -17,7 +17,7 @@ int main()
         for(int i =0 ;i < plain.length() ; i++) cout<< (int)plain[i]<<" " ;
         cout<<endl;
 //initialization
-    for(int i=0;i<255;i++)
+    for(int i=0;i<256;i++)
         s[i] = i, t[i] = (int)key[i % key.length()];
 //initial permutaion
     int j=0;
